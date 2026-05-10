@@ -1,0 +1,82 @@
+.encabezado{
+	width: 75vw;
+	height: 10vh;
+	border: black solid 2px;
+	margin: 10px auto;
+	text-align: center;
+}
+
+.seccion1{
+	width: 80vw;
+	height: 250vh;
+	
+	margin: auto;
+}
+
+.poster{
+	height: 100vh;
+	width: 60vw;
+	border: black solid 2px;
+	margin: 30px auto;
+}
+
+.info{
+	width: 70vw;
+	height: 138vh;
+	
+	margin: auto;
+}
+
+.seccion2{
+	width: 80vw;
+	height: 350vh;
+	
+	margin: 20px auto;
+}
+
+.info2{
+	width: 75vw;
+	height: 130vh;
+	border: black solid 2px;
+	margin: 10px auto;
+}
+.seccion3
+{
+	display: flex;
+width: 70vw;
+height: 69vh;
+
+}
+
+.caja
+{
+	width: 35vw;
+	height: 69vh;
+	border: black solid 2px;
+}
+
+.h1{
+	margin: auto;
+	width: 15vw;
+	height: 10vh;
+	border: black solid 2px;
+	text-align: center;
+}
+
+.h2{
+	width: 35vw;
+	height: 59vh;
+}
+
+.trailer{
+	height: 100vh;
+	width: 60vw;
+	border: black solid 2px;
+	margin: 30px auto;
+}
+.corto{
+	height: 100vh;
+	width: 60vw;
+	border: black solid 2px;
+	margin: 30px auto;
+}

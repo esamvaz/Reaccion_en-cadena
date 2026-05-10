@@ -1,0 +1,53 @@
+.encabezado{
+	width: 85vw;
+	height: 15vh;
+	border: black solid 2px;
+	margin: 10px auto;
+	text-align: center;
+	font-size: calc(1.9em);
+}
+
+.seccion{
+	width: 90vw;
+	height: 100vh;
+	display: flex;
+	margin: auto;
+}
+
+.img{
+	width: 80vw;
+	height: 120vh;
+	
+	margin: 20px auto;
+}
+
+.piedepag{
+	width: 85vw;
+	height: 15vh;
+	border: black solid 2px;
+	margin: 10px auto;
+}
+
+.articulo{
+	width: 45vw;
+	height: 100vh;
+	border: black solid 2px;
+}
+
+.h1{
+	width: 30vw;
+	height: 10vh;
+	border: black solid;
+	margin: 10px auto;
+	text-align: center;
+	font-size: calc(1.5em);
+}
+
+.info{
+	height: 84vh;
+	width: 43vw;
+	margin: auto;
+	font-size: calc(1.4em);
+}
+
+

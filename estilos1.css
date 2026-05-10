@@ -1,0 +1,29 @@
+.encabezado{
+	width: 85vw;
+	height: 20vh;
+	border: black solid 2px;
+	margin: 10px auto;
+	text-align: center;
+	font-size: calc(2em);
+}
+
+.seccion{
+	display: flex;
+	width: 80vw;
+	height: 50vh;
+	margin: 20px auto;
+	
+}
+
+.img{
+	width: 20vw;
+	height: 45vh;
+	border: black solid 2px;
+}
+
+.info{
+	width: 55vw;
+	height: 45vh;
+	border: black solid 2px;
+	margin-left: 30px;
+}

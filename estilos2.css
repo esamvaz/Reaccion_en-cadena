@@ -1,0 +1,37 @@
+
+.encabezado{
+	width: 85vw;
+	height: 20vh;
+	border: black solid 2px;
+	margin: 10px auto;
+	text-align: center;
+	font-size: calc(2em);
+ }
+
+ .seccion{
+ 	width: 80vw;
+ 	height: 100vh;
+ 	
+ 	margin: auto;
+ }
+
+ .footer{
+ 	width: 85vw;
+ 	height: 15vh;
+ 	margin: 10px auto;
+ 	border: black solid 2px;
+}
+
+.img{
+	width: 75vw;
+	height:80vh;
+	border: black solid 2px;
+	margin: 10px auto;
+}
+
+.inf{
+	width: 75vw;
+	height:15vh;
+	border: black solid 2px;
+	margin: auto;
+}
